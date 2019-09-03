@@ -1,3 +1,10 @@
+# Kora Drogula
+## Three Reasons I like CS
+- I like the relaxed atmosphere in classes 
+- I like speaking to computers using their language as if it was a person
+- I like that there are many resources for help cause I need it :)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
